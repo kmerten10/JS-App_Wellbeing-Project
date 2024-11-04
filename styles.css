@@ -81,27 +81,6 @@ body {
     }
 }
 
-.fade-out {
-    animation: fadeOut 10s forwards;
-    /* Change duration as needed */
-}
-
-@keyframes fadeOut {
-    0% {
-        opacity: 1;
-        /* Fully opaque */
-    }
-
-    50% {
-        opacity: .5;
-    }
-
-    100% {
-        opacity: 0;
-        /* Fully transparent */
-    }
-}
-
 /* CLOUDS */
 .cloud-container {
     z-index: -1;
