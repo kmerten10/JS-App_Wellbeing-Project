@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+
+    <!--stylesheets-->
+    <link rel="normalize" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    
+    <!--Favicon Icon-->
+    <link rel="icon" type="image/png" href="img/favicon-32x32.png" sizes="32x32" />
+    
+    <!--Fonts-->
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap" rel="stylesheet">
+    
+</head>
+
+<body>
+    <span id="container">
+        <div class="floating-text">Welcome.</div>
+        <div id="floating-text-2">Let's find out how your day was</div>
+    </span>
+
+<div class="cloud-container">
+    <div class="cloud"></div>
+    </div>
+<div class="cloud-container-2">
+    <div class="cloud-2"></div>
+</div>
+<div class="cloud-container-3">
+    <div class="cloud-3"></div>
+</div>
+<div class="cloud-container-4">
+    <div class="cloud-4"></div>
+</div>
+ 
+    <script>
+        setTimeout(function() {
+            document.body.classList.add('fade-out');
+            window.location.href = 'public/index.html'; // Replace with the URL you want to open
+        }, 9000); 
+    </script>
+
+
+</body>
+</html>
