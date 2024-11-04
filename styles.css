@@ -309,3 +309,220 @@ body {
     top: -70px;
     left: 130px;
 }
+
+/*Cloud media Queries*/
+@media (max-width: 768px) {
+    .cloud-container {
+        right: 10px;
+        top: 50px;
+    }
+
+    .cloud {
+        width: 250px;
+        height: 80px;
+        margin-top: 50px;
+    }
+
+    .cloud::after {
+        width: 70px;
+        height: 70px;
+        top: -100px;
+        right: 70px;
+    }
+
+    .cloud::before {
+        width: 140px;
+        height: 140px;
+        top: -50px;
+        left: 100px;
+    }
+}
+
+@media (max-width: 480px) {
+    .cloud-container {
+        right: 5px;
+        top: 30px;
+    }
+
+    .cloud {
+        width: 200px;
+        height: 60px;
+        margin-top: 30px;
+    }
+
+    .cloud::after {
+        width: 50px;
+        height: 50px;
+        top: -80px;
+        right: 50px;
+    }
+
+    .cloud::before {
+        width: 100px;
+        height: 100px;
+        top: -40px;
+        left: 70px;
+    }
+}
+
+@media (max-width: 768px) {
+    .cloud-container {
+        right: 10px;
+        top: 50px;
+    }
+
+    .cloud-2 {
+        width: 250px;
+        height: 80px;
+        margin-top: 50px;
+    }
+
+    .cloud-2::after {
+        width: 70px;
+        height: 70px;
+        top: -100px;
+        right: 70px;
+    }
+
+    .cloud-2::before {
+        width: 140px;
+        height: 140px;
+        top: -50px;
+        left: 100px;
+    }
+}
+
+@media (max-width: 480px) {
+    .cloud-container {
+        right: 5px;
+        top: 30px;
+    }
+
+    .cloud-2 {
+        width: 200px;
+        height: 60px;
+        margin-top: 30px;
+    }
+
+    .cloud-2::after {
+        width: 50px;
+        height: 50px;
+        top: -80px;
+        right: 50px;
+    }
+
+    .cloud-2::before {
+        width: 100px;
+        height: 100px;
+        top: -40px;
+        left: 70px;
+    }
+}
+
+@media (max-width: 768px) {
+    .cloud-container {
+        right: 10px;
+        top: 50px;
+    }
+
+    .cloud-3 {
+        width: 250px;
+        height: 80px;
+        margin-top: 50px;
+    }
+
+    .cloud-3::after {
+        width: 70px;
+        height: 70px;
+        top: -100px;
+        right: 70px;
+    }
+
+    .cloud-3::before {
+        width: 140px;
+        height: 140px;
+        top: -50px;
+        left: 100px;
+    }
+}
+
+@media (max-width: 480px) {
+    .cloud-container {
+        right: 5px;
+        top: 30px;
+    }
+
+    .cloud-3 {
+        width: 200px;
+        height: 60px;
+        margin-top: 30px;
+    }
+
+    .cloud-3::after {
+        width: 50px;
+        height: 50px;
+        top: -80px;
+        right: 50px;
+    }
+
+    .cloud-3::before {
+        width: 100px;
+        height: 100px;
+        top: -40px;
+        left: 70px;
+    }
+}
+
+@media (max-width: 768px) {
+    .cloud-container {
+        right: 10px;
+        top: 50px;
+    }
+
+    .cloud-4 {
+        width: 250px;
+        height: 80px;
+        margin-top: 50px;
+    }
+
+    .cloud-4::after {
+        width: 70px;
+        height: 70px;
+        top: -100px;
+        right: 70px;
+    }
+
+    .cloud-4::before {
+        width: 140px;
+        height: 140px;
+        top: -50px;
+        left: 100px;
+    }
+}
+
+@media (max-width: 480px) {
+    .cloud-container {
+        right: 5px;
+        top: 30px;
+    }
+
+    .cloud-4 {
+        width: 200px;
+        height: 60px;
+        margin-top: 30px;
+    }
+
+    .cloud-4::after {
+        width: 50px;
+        height: 50px;
+        top: -80px;
+        right: 50px;
+    }
+
+    .cloud-4::before {
+        width: 100px;
+        height: 100px;
+        top: -40px;
+        left: 70px;
+    }
+}
