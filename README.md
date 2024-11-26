@@ -7,7 +7,7 @@ A web application built with HTML/CSS and JavaScript walks through a series of q
 
 How It's Made:
 
-Tech used: HTML/CSS, JavaScript, scoring logic
+Tech used: HTML/CSS, JavaScript, scoring logic, Docker (image & contanerization)
 
 This is an original project inspired by my passion for health and wellbeing. While reinforcing JavaScript concepts, this project developed my skills in ideation and UX design concepts including visual and functional design, usability, information architecture and user research.
 
