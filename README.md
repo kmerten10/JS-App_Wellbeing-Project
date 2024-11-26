@@ -16,7 +16,7 @@ Implementing a backend that stores user scores from the previous day
 Implementing a feature that displays a user's score from the previous day
 
 Lessons Learned:
-This project utilized skills that I had already developed, with the exception of the scoring system. I improved my documentation skills during this project and believe I maintained a well organized code base with clearly defined notes. I relied heavily on external resources for this project and need to revisit the capability notes to better understand how to implement the functionality more independently. 
+I practiced HTML, CSS and JS skills, developed scoring logic and wrote functions to build the scoring system.
 
 Project Link:
 Github: https://github.com/kmerten10/JS-App_Wellbeing-Project.git
